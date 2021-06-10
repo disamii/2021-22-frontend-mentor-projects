@@ -1,3 +1,4 @@
 2-1 - Address Concerns Incident Lister - Ethiopian Electric Interruption Tracking System
 4-1 - Tech Sector Utility Sector Utility Tech - Ethiopian Electric Interruption Tracking System
 6-1 - Display Cards Tracker Effectiver - Ethiopian Electric Interruption Tracking System
+7-1 - Reason Outages User Interface - Ethiopian Electric Interruption Tracking System
