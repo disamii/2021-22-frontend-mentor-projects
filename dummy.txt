@@ -14,3 +14,4 @@
 30-1 - Write Guides Edit Requester - Ethiopian Electric Interruption Tracking System
 31-1 - Write Guides Incident Lister - Ethiopian Electric Interruption Tracking System
 32-1 - Integrate Features Alert Automator - Ethiopian Electric Interruption Tracking System
+33-1 - Delete Requests Line Frequency Identifier - Ethiopian Electric Interruption Tracking System
