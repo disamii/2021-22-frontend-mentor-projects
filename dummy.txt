@@ -19,3 +19,4 @@
 40-1 - Link Navigations Card Metric Highlighter - Ethiopian Electric Interruption Tracking System
 41-1 - Logic Server Side User Guide Writer - Ethiopian Electric Interruption Tracking System
 42-1 - Submit Reports Username Generator - Ethiopian Electric Interruption Tracking System
+43-1 - Improve Reliabs Insight Linker - Ethiopian Electric Interruption Tracking System
