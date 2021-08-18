@@ -27,3 +27,4 @@
 52-1 - Support Customizable Outage Reasoner - Ethiopian Electric Interruption Tracking System
 53-1 - Handle Tailwind Styling - Ethiopian Electric Interruption Tracking System
 55-1 - Invest Upgrades Theme Toggle - Ethiopian Electric Interruption Tracking System
+56-1 - Contribute Reliabilities Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
