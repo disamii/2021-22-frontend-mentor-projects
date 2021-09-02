@@ -31,3 +31,4 @@
 59-1 - Break Feeders Report Generation - Ethiopian Electric Interruption Tracking System
 60-1 - Meet Needs Concern Addresser - Ethiopian Electric Interruption Tracking System
 62-1 - Develop Duration Recorder - Ethiopian Electric Interruption Tracking System
+67-1 - Personalize Passes Visibility Enhancer - Ethiopian Electric Interruption Tracking System
