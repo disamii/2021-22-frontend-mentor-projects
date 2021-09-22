@@ -35,3 +35,4 @@
 68-1 - Reset Pass Detail Submitter - Ethiopian Electric Interruption Tracking System
 71-1 - Base Historicals Class Diagram - Ethiopian Electric Interruption Tracking System
 74-1 - Highlight Screenshots Feedback Collector - Ethiopian Electric Interruption Tracking System
+81-1 - Reset Tracker Effectiver - Ethiopian Electric Interruption Tracking System
