@@ -38,3 +38,4 @@
 81-1 - Reset Tracker Effectiver - Ethiopian Electric Interruption Tracking System
 85-1 - Manage Database Predictive Insights - Ethiopian Electric Interruption Tracking System
 87-1 - Address Proactives Handbook Report Writer - Ethiopian Electric Interruption Tracking System
+89-1 - Action Dropdowns Insight Linker - Ethiopian Electric Interruption Tracking System
