@@ -41,3 +41,4 @@
 89-1 - Action Dropdowns Insight Linker - Ethiopian Electric Interruption Tracking System
 93-1 - Capture Datas Time Durator - Ethiopian Electric Interruption Tracking System
 94-1 - Deploy Outage Reasoner - Ethiopian Electric Interruption Tracking System
+103-1 - Report UIs Pattern Comparer - Ethiopian Electric Interruption Tracking System
