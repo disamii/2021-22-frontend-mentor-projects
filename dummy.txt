@@ -43,3 +43,4 @@
 94-1 - Deploy Outage Reasoner - Ethiopian Electric Interruption Tracking System
 103-1 - Report UIs Pattern Comparer - Ethiopian Electric Interruption Tracking System
 1 - Support Customizable Support Enhancer - Ethiopian Electric Interruption Tracking System
+2 - Improve Reliabs Report Submitter - Ethiopian Electric Interruption Tracking System
