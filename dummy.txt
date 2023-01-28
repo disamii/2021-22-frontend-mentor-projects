@@ -45,3 +45,4 @@
 1 - Support Customizable Support Enhancer - Ethiopian Electric Interruption Tracking System
 2 - Improve Reliabs Report Submitter - Ethiopian Electric Interruption Tracking System
 3 - Consult Initial Predictive Insights - Ethiopian Electric Interruption Tracking System
+4 - Delete Users Web Based Solution - Ethiopian Electric Interruption Tracking System
