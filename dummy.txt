@@ -49,3 +49,4 @@
 5 - Define Associations Theme Toggle - Ethiopian Electric Interruption Tracking System
 6 - Review Historical Firewall Configurer Cisco - Ethiopian Electric Interruption Tracking System
 7 - Gather Feedbacks Environment Collaborator - Ethiopian Electric Interruption Tracking System
+8 - Document Process Info Tracker - Ethiopian Electric Interruption Tracking System
