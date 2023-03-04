@@ -50,3 +50,4 @@
 6 - Review Historical Firewall Configurer Cisco - Ethiopian Electric Interruption Tracking System
 7 - Gather Feedbacks Environment Collaborator - Ethiopian Electric Interruption Tracking System
 8 - Document Process Info Tracker - Ethiopian Electric Interruption Tracking System
+9 - Take Notes Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
