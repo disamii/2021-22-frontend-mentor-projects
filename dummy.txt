@@ -52,3 +52,4 @@
 8 - Document Process Info Tracker - Ethiopian Electric Interruption Tracking System
 9 - Take Notes Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
 10 - Build Charts LAN Configuration - Ethiopian Electric Interruption Tracking System
+11 - Display Cards Visibility Enhancer - Ethiopian Electric Interruption Tracking System
