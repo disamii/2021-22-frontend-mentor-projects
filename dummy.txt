@@ -54,3 +54,4 @@
 10 - Build Charts LAN Configuration - Ethiopian Electric Interruption Tracking System
 11 - Display Cards Visibility Enhancer - Ethiopian Electric Interruption Tracking System
 12 - Action Follow Ups Performance Booster - Ethiopian Electric Interruption Tracking System
+13 - Hold Meetings Password Assigner - Ethiopian Electric Interruption Tracking System
