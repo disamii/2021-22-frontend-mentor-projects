@@ -58,3 +58,4 @@
 14 - Face Challenges Tailwind Styling - Ethiopian Electric Interruption Tracking System
 15 - Develop Service Reliability Booster - Ethiopian Electric Interruption Tracking System
 16 - Edit Requests Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
+17 - Delete Users Summary Viewer - Ethiopian Electric Interruption Tracking System
