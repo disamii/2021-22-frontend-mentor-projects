@@ -64,3 +64,4 @@
 20 - View Profile Association Definer - Ethiopian Electric Interruption Tracking System
 21 - Affect Lines Automated Alerts - Ethiopian Electric Interruption Tracking System
 22 - Highlight Screenshots Report Page Builder - Ethiopian Electric Interruption Tracking System
+23 - Define Roles Version Manager - Ethiopian Electric Interruption Tracking System
