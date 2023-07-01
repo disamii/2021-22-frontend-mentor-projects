@@ -67,3 +67,4 @@
 23 - Define Roles Version Manager - Ethiopian Electric Interruption Tracking System
 24 - Parse User Friendly Interface - Ethiopian Electric Interruption Tracking System
 25 - Test Internet Connector - Ethiopian Electric Interruption Tracking System
+26 - Capture Datas Guideline Internship Follower - Ethiopian Electric Interruption Tracking System
