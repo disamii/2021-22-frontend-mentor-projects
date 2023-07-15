@@ -69,3 +69,4 @@
 25 - Test Internet Connector - Ethiopian Electric Interruption Tracking System
 26 - Capture Datas Guideline Internship Follower - Ethiopian Electric Interruption Tracking System
 27 - Scale Frontend Builder - Ethiopian Electric Interruption Tracking System
+28 - Safeguard Infos Total Interruption Counter - Ethiopian Electric Interruption Tracking System
