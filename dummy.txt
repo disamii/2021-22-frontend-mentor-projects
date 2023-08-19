@@ -74,3 +74,4 @@
 30 - Placeholder Theme Toggle - Ethiopian Electric Interruption Tracking System
 31 - Friendlier Experiences Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
 32 - Manage Overall Firewall Configurer Cisco - Ethiopian Electric Interruption Tracking System
+33 - Automate Data Flow Designer - Ethiopian Electric Interruption Tracking System
