@@ -79,3 +79,4 @@
 35 - Fill Fields Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
 36 - Engage Mentor Insight Linker - Ethiopian Electric Interruption Tracking System
 37 - Configure Firewalls Data Summary - Ethiopian Electric Interruption Tracking System
+38 - Automate Alerts User Friendly Interface - Ethiopian Electric Interruption Tracking System
