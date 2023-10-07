@@ -81,3 +81,4 @@
 37 - Configure Firewalls Data Summary - Ethiopian Electric Interruption Tracking System
 38 - Automate Alerts User Friendly Interface - Ethiopian Electric Interruption Tracking System
 39 - Test Navigation Linker - Ethiopian Electric Interruption Tracking System
+40 - Monitor Suspensions Access Level Controller - Ethiopian Electric Interruption Tracking System
