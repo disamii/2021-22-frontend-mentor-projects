@@ -90,3 +90,4 @@
 46 - Visualize Trends Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
 47 - Conduct Discussions Report Page Builder - Ethiopian Electric Interruption Tracking System
 48 - Develop API Metric Card Displayer - Ethiopian Electric Interruption Tracking System
+49 - Compare Patterns Automated Alerts - Ethiopian Electric Interruption Tracking System
