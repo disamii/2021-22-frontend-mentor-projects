@@ -98,3 +98,4 @@
 54 - Standard Networks Handbook Report Writer - Ethiopian Electric Interruption Tracking System
 55 - Build Reports Info Viewer - Ethiopian Electric Interruption Tracking System
 56 - Meet Needs Performance Optimalizer - Ethiopian Electric Interruption Tracking System
+57 - Affect Lines Report Generation - Ethiopian Electric Interruption Tracking System
