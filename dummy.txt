@@ -99,3 +99,4 @@
 55 - Build Reports Info Viewer - Ethiopian Electric Interruption Tracking System
 56 - Meet Needs Performance Optimalizer - Ethiopian Electric Interruption Tracking System
 57 - Affect Lines Report Generation - Ethiopian Electric Interruption Tracking System
+58 - Identify Failures UML Entity Mapper - Ethiopian Electric Interruption Tracking System
