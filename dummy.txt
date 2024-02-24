@@ -101,3 +101,4 @@
 57 - Affect Lines Report Generation - Ethiopian Electric Interruption Tracking System
 58 - Identify Failures UML Entity Mapper - Ethiopian Electric Interruption Tracking System
 59 - Enhance Visibility Reliability Improver - Ethiopian Electric Interruption Tracking System
+60 - Enhance Efficiencies Analytics Predictor - Ethiopian Electric Interruption Tracking System
