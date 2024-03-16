@@ -104,3 +104,4 @@
 60 - Enhance Efficiencies Analytics Predictor - Ethiopian Electric Interruption Tracking System
 61 - Generate Username Disruption Optimizer - Ethiopian Electric Interruption Tracking System
 62 - Interview Staffs Username Generator - Ethiopian Electric Interruption Tracking System
+63 - Break Feeders Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
