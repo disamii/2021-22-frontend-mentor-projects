@@ -106,3 +106,4 @@
 62 - Interview Staffs Username Generator - Ethiopian Electric Interruption Tracking System
 63 - Break Feeders Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
 64 - User Manuals Reliability Service Improver - Ethiopian Electric Interruption Tracking System
+65 - Advance Analyzers Periodic Reporter - Ethiopian Electric Interruption Tracking System
