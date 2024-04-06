@@ -107,3 +107,4 @@
 63 - Break Feeders Recurring Issue Detector - Ethiopian Electric Interruption Tracking System
 64 - User Manuals Reliability Service Improver - Ethiopian Electric Interruption Tracking System
 65 - Advance Analyzers Periodic Reporter - Ethiopian Electric Interruption Tracking System
+66 - Optimize Data Summary - Ethiopian Electric Interruption Tracking System
