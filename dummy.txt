@@ -113,3 +113,4 @@
 69 - Receive Responses Data Storage Manager - Ethiopian Electric Interruption Tracking System
 70 - Friendlier Experiences Visibility Enhancer - Ethiopian Electric Interruption Tracking System
 71 - Count Totals User Friendly Interface - Ethiopian Electric Interruption Tracking System
+72 - Acquire Knowledges Profile Viewer - Ethiopian Electric Interruption Tracking System
