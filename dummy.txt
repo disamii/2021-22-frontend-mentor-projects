@@ -114,3 +114,4 @@
 70 - Friendlier Experiences Visibility Enhancer - Ethiopian Electric Interruption Tracking System
 71 - Count Totals User Friendly Interface - Ethiopian Electric Interruption Tracking System
 72 - Acquire Knowledges Profile Viewer - Ethiopian Electric Interruption Tracking System
+73 - Record Actions Sector Utility Tech - Ethiopian Electric Interruption Tracking System
