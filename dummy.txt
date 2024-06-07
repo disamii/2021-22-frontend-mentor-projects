@@ -116,3 +116,4 @@
 72 - Acquire Knowledges Profile Viewer - Ethiopian Electric Interruption Tracking System
 73 - Record Actions Sector Utility Tech - Ethiopian Electric Interruption Tracking System
 74 - Store Data Data Storage Manager - Ethiopian Electric Interruption Tracking System
+75 - Maintain Oversights Entry Real Timer - Ethiopian Electric Interruption Tracking System
