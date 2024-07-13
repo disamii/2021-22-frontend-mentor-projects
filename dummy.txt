@@ -121,3 +121,4 @@
 77 - Deploy Isolated Environment Creator - Ethiopian Electric Interruption Tracking System
 78 - Install Software Alert Automator - Ethiopian Electric Interruption Tracking System
 79 - Specify Hardware Profile Viewer - Ethiopian Electric Interruption Tracking System
+80 - Edit Profiles Access Level Controller - Ethiopian Electric Interruption Tracking System
