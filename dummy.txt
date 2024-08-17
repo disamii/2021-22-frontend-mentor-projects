@@ -126,3 +126,4 @@
 82 - Deepen Skills Django Endpoints - Ethiopian Electric Interruption Tracking System
 83 - Ask Questions Feedback Gatherer - Ethiopian Electric Interruption Tracking System
 84 - Enhance Engineering Computer Departmenter - Ethiopian Electric Interruption Tracking System
+85 - Install Software Response Receiver - Ethiopian Electric Interruption Tracking System
