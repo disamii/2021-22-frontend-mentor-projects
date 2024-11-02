@@ -137,3 +137,4 @@
 93 - Define Associations Tracker Effectiver - Ethiopian Electric Interruption Tracking System
 94 - Specify Hardware Info Viewer - Ethiopian Electric Interruption Tracking System
 95 - Route Details Backend API - Ethiopian Electric Interruption Tracking System
+96 - Personalize Passes Pattern Comparer - Ethiopian Electric Interruption Tracking System
