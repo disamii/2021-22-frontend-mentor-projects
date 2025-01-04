@@ -146,3 +146,4 @@
 102 - Reference Backgrounds Improvement Identifier Stakeholder - Ethiopian Electric Interruption Tracking System
 103 - Render Login Configuration Participant - Ethiopian Electric Interruption Tracking System
 104 - Authenticate Need Customer Meeter - Ethiopian Electric Interruption Tracking System
+105 - Seamless Exchange Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
