@@ -147,3 +147,4 @@
 103 - Render Login Configuration Participant - Ethiopian Electric Interruption Tracking System
 104 - Authenticate Need Customer Meeter - Ethiopian Electric Interruption Tracking System
 105 - Seamless Exchange Delivery Service Maintainer - Ethiopian Electric Interruption Tracking System
+106 - Automate Hardware Specifier - Ethiopian Electric Interruption Tracking System
