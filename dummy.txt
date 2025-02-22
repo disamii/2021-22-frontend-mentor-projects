@@ -153,3 +153,4 @@
 109 - Develop API Primary Actor Handler - Ethiopian Electric Interruption Tracking System
 110 - Pop Prompts Scheduler - Ethiopian Electric Interruption Tracking System
 111 - Measure Security Total Interruption Counter - Ethiopian Electric Interruption Tracking System
+112 - View Summary Routine Establisher - Ethiopian Electric Interruption Tracking System
