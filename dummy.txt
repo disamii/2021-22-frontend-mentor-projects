@@ -155,3 +155,4 @@
 111 - Measure Security Total Interruption Counter - Ethiopian Electric Interruption Tracking System
 112 - View Summary Routine Establisher - Ethiopian Electric Interruption Tracking System
 113 - Switch Themes Table Lister - Ethiopian Electric Interruption Tracking System
+114 - Understand Limitations Reset Function Adder - Ethiopian Electric Interruption Tracking System
