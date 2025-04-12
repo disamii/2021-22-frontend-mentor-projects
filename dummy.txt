@@ -160,3 +160,4 @@
 116 - Update Sector Utility Tech - Ethiopian Electric Interruption Tracking System
 117 - Link Navigations Frequency Analyzer - Ethiopian Electric Interruption Tracking System
 118 - Render Login Admin Dashboard - Ethiopian Electric Interruption Tracking System
+119 - Build Interfaces Note Taker - Ethiopian Electric Interruption Tracking System
