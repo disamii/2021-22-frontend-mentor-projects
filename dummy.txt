@@ -162,3 +162,4 @@
 118 - Render Login Admin Dashboard - Ethiopian Electric Interruption Tracking System
 119 - Build Interfaces Note Taker - Ethiopian Electric Interruption Tracking System
 120 - Write Guides Pattern Comparer - Ethiopian Electric Interruption Tracking System
+121 - Add Secure Access Gate - Ethiopian Electric Interruption Tracking System
