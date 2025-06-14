@@ -169,3 +169,4 @@
 125 - Affect Lines Navigation Easier - Ethiopian Electric Interruption Tracking System
 126 - Control Version Note Taker - Ethiopian Electric Interruption Tracking System
 127 - Affect Lines Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
+128 - Ask Questions Insight Deeper Deriver - Ethiopian Electric Interruption Tracking System
