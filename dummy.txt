@@ -170,3 +170,4 @@
 126 - Control Version Note Taker - Ethiopian Electric Interruption Tracking System
 127 - Affect Lines Knowledge Acquirer - Ethiopian Electric Interruption Tracking System
 128 - Ask Questions Insight Deeper Deriver - Ethiopian Electric Interruption Tracking System
+129 - Reason Outages Concern Addresser - Ethiopian Electric Interruption Tracking System
