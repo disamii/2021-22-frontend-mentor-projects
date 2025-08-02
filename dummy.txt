@@ -176,3 +176,4 @@
 132 - Iterate Adjustments Primary Actor Handler - Ethiopian Electric Interruption Tracking System
 133 - Base Historicals User Friendly Interface - Ethiopian Electric Interruption Tracking System
 134 - Highlight Metrics Cause Frequency Insight - Ethiopian Electric Interruption Tracking System
+135 - Gather Data Table Lister - Ethiopian Electric Interruption Tracking System
