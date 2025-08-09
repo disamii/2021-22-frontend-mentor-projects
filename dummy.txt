@@ -177,3 +177,4 @@
 133 - Base Historicals User Friendly Interface - Ethiopian Electric Interruption Tracking System
 134 - Highlight Metrics Cause Frequency Insight - Ethiopian Electric Interruption Tracking System
 135 - Gather Data Table Lister - Ethiopian Electric Interruption Tracking System
+136 - Deploy Trainer Ongoing - Ethiopian Electric Interruption Tracking System
