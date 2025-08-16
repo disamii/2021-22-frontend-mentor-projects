@@ -178,3 +178,4 @@
 134 - Highlight Metrics Cause Frequency Insight - Ethiopian Electric Interruption Tracking System
 135 - Gather Data Table Lister - Ethiopian Electric Interruption Tracking System
 136 - Deploy Trainer Ongoing - Ethiopian Electric Interruption Tracking System
+137 - Validate Database - Ethiopian Electric Interruption Tracking System
