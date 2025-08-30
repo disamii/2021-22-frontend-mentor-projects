@@ -180,3 +180,4 @@
 136 - Deploy Trainer Ongoing - Ethiopian Electric Interruption Tracking System
 137 - Validate Database - Ethiopian Electric Interruption Tracking System
 138 - Connect Branches Duration Recorder - Ethiopian Electric Interruption Tracking System
+139 - Setup Concepts Class Diagram - Ethiopian Electric Interruption Tracking System
