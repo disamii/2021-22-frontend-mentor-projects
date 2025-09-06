@@ -181,3 +181,4 @@
 137 - Validate Database - Ethiopian Electric Interruption Tracking System
 138 - Connect Branches Duration Recorder - Ethiopian Electric Interruption Tracking System
 139 - Setup Concepts Class Diagram - Ethiopian Electric Interruption Tracking System
+140 - Provide Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
