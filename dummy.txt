@@ -183,3 +183,4 @@
 139 - Setup Concepts Class Diagram - Ethiopian Electric Interruption Tracking System
 140 - Provide Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
 141 - Optimalize Performs Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
+142 - Fill Fields Vision Mission Stater - Ethiopian Electric Interruption Tracking System
