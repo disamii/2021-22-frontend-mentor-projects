@@ -184,3 +184,4 @@
 140 - Provide Distribution Bar Creator - Ethiopian Electric Interruption Tracking System
 141 - Optimalize Performs Manual Technical Operational EEU - Ethiopian Electric Interruption Tracking System
 142 - Fill Fields Vision Mission Stater - Ethiopian Electric Interruption Tracking System
+143 - Track Changes Performance Analyzer - Ethiopian Electric Interruption Tracking System
