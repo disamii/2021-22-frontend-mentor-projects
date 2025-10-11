@@ -186,3 +186,4 @@
 142 - Fill Fields Vision Mission Stater - Ethiopian Electric Interruption Tracking System
 143 - Track Changes Performance Analyzer - Ethiopian Electric Interruption Tracking System
 144 - Fix Communication Facilitator - Ethiopian Electric Interruption Tracking System
+145 - Measure Security Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
