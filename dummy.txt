@@ -189,3 +189,4 @@
 145 - Measure Security Device Manual User Huawei - Ethiopian Electric Interruption Tracking System
 146 - Map Entities Support Enhancer - Ethiopian Electric Interruption Tracking System
 147 - Handle Network Integration - Ethiopian Electric Interruption Tracking System
+148 - View Infos Dropdown Actioner - Ethiopian Electric Interruption Tracking System
