@@ -193,3 +193,4 @@
 149 - Test Network Integration - Ethiopian Electric Interruption Tracking System
 150 - Track Infos Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
 151 - Authenticate Visibility Enhancer - Ethiopian Electric Interruption Tracking System
+152 - Collaborate Envs Personalizer - Ethiopian Electric Interruption Tracking System
