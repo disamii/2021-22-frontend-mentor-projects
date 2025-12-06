@@ -194,3 +194,4 @@
 150 - Track Infos Communication Computer Data Referencer - Ethiopian Electric Interruption Tracking System
 151 - Authenticate Visibility Enhancer - Ethiopian Electric Interruption Tracking System
 152 - Collaborate Envs Personalizer - Ethiopian Electric Interruption Tracking System
+153 - Optimize Screens Admin Dashboard - Ethiopian Electric Interruption Tracking System
