@@ -195,3 +195,4 @@
 151 - Authenticate Visibility Enhancer - Ethiopian Electric Interruption Tracking System
 152 - Collaborate Envs Personalizer - Ethiopian Electric Interruption Tracking System
 153 - Optimize Screens Admin Dashboard - Ethiopian Electric Interruption Tracking System
+154 - Friendlier Experiences Data Manager - Ethiopian Electric Interruption Tracking System
